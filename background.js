@@ -1,0 +1,1 @@
+chrome["browserAction"]["onClicked"].addListener(function(){window.open("http://agar.io/", "_new")})
